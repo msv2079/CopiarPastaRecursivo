@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopiarPastaRecursivo", "CopiarPastaRecursivo\CopiarPastaRecursivo.csproj", "{42A4325F-3E0A-46B6-A9BE-99D944101038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42A4325F-3E0A-46B6-A9BE-99D944101038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A4325F-3E0A-46B6-A9BE-99D944101038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A4325F-3E0A-46B6-A9BE-99D944101038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A4325F-3E0A-46B6-A9BE-99D944101038}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55D1FFEA-1504-46EA-8969-C6B98484D5E7}
+	EndGlobalSection
+EndGlobal
